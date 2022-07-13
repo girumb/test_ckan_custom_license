@@ -2,6 +2,7 @@
   {
     "id": "cc-by-igo",
     "title": "Creative Commons Attribution for Intergovernmental Organisations",
+    "url": "http://creativecommons.org/licenses/by/3.0/igo/legalcode",
     "detail": {
       "family": "",
       "status": "active",
@@ -19,6 +20,7 @@
   {
     "id": "cc-by",
     "title": "Creative Commons Attribution International",
+    "url": "http://www.opendefinition.org/licenses/cc-by",
     "detail": {
       "family": "",
       "status": "active",
@@ -36,6 +38,7 @@
   {
     "id": "cc-by-sa",
     "title": "Creative Commons Attribution Share-Alike",
+    "url": "http://www.opendefinition.org/licenses/cc-by-sa",
     "detail": {
       "family": "",
       "status": "active",
@@ -53,6 +56,7 @@
   {
     "id": "hdx-odc-odbl",
     "title": "Open Database License (ODC-ODbL)",
+    "url": "",
     "detail": {
       "family": "",
       "status": "active",
@@ -70,6 +74,7 @@
   {
     "id": "hdx-odc-by",
     "title": "Open Data Commons Attribution License (ODC-BY)",
+    "url": "",
     "detail": {
       "family": "",
       "status": "active",
@@ -87,6 +92,7 @@
   {
     "id": "hdx-pddl",
     "title": "Open Data Commons Public Domain Dedication and License (PDDL)",
+    "url": "",
     "detail": {
       "family": "",
       "status": "active",
@@ -104,6 +110,7 @@
   {
     "id": "other-pd-nr",
     "title": "Public Domain / No Restrictions",
+    "url": "",
     "detail": {
       "family": "",
       "status": "active",
@@ -121,6 +128,7 @@
   {
     "id": "hdx-multi",
     "title": "Multiple Licenses",
+    "url": "",
     "detail": {
       "family": "",
       "status": "active",
@@ -138,6 +146,7 @@
   {
     "id": "hdx-other",
     "title": "Other",
+    "url": "",
     "detail": {
       "family": "",
       "status": "active",
